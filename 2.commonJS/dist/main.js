@@ -1,0 +1,1 @@
+(()=>{var e={87:e=>{e.exports=function(){var e=document.getElementById("root"),t=document.createElement("div");t.innerText="This is Header",e.append(t)}}},t={};new(function r(n){if(t[n])return t[n].exports;var o=t[n]={exports:{}};return e[n](o,o.exports,r),o.exports}(87))})();
