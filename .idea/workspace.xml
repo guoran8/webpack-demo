@@ -21,11 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="551ee9ab-e677-4948-9803-3e81a8aa1fc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.loader/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/4.loader/dist/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/4.loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.loader/postcss.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.loader/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/4.loader/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.loader/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/4.loader/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +31,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
-        <option value="HTML File" />
         <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -89,7 +84,7 @@
       <workItem from="1604241648774" duration="416000" />
       <workItem from="1605370690677" duration="4798000" />
       <workItem from="1605376070000" duration="55000" />
-      <workItem from="1605543846920" duration="5855000" />
+      <workItem from="1605543846920" duration="7860000" />
     </task>
     <servers />
   </component>
