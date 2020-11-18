@@ -4,7 +4,8 @@
   "description": "webpack默认只能识别 js文件",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
@@ -23,6 +24,7 @@
     "webpack-cli": "^4.1.0"
   },
   "browserslist": [
-    "last 100 version", ">0%"
+    "last 10 versions",
+    "> 1%"
   ]
 }

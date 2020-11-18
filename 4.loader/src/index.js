@@ -3,22 +3,20 @@
 
 // console.log(avatar);
 // new Header();
-
-import Taylor from './taylor.jpeg'
+import createAvatar from "./avatar";
 import Wu from './wu.png'
+// import './style.sass' // 全局样式
+import style from './style.sass' // css module
+import './iconfont.scss'
 
-import './style.sass'
-
-const taylor = new Image()
-console.log(Taylor)
-taylor.src = Taylor
-taylor.className = "avatar"
+createAvatar()
 
 const wuImg = new Image()
 wuImg.src = Wu
-wuImg.classList.add('avatar')
+wuImg.classList.add(style.avatar)
 
 const root = document.getElementById('root')
-root.append(taylor)
 root.append(wuImg)
+
+root.innerHTML = "<div class='iconfont icon-niunai'>Test Item</div>"
 

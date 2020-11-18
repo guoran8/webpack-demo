@@ -18,6 +18,12 @@ module.exports = {
         }
       },
       {
+        test: /\.(eot|svg|ttf|woff)$/,
+        use: {
+          loader: "file-loader"
+        }
+      },
+      {
         test: /\.(png|gif)$/,
         use: {
           loader: 'url-loader',
@@ -29,8 +35,14 @@ module.exports = {
         }
       },
       {
-        test: /\.(sass)$/,
-        use: ['style-loader', 'css-loader', 'sass-loader', 'postcss-loader'] // 如果要是多个loader用数组的形式
+        test: /\.(sass|scss)$/,
+        use: ['style-loader', {
+          loader: 'css-loader',
+          options: {
+            importLoaders: 2, // css中有import的语句,默认直接使用css-loader,此选项配置当遇到import的时候首先调用后2个loader
+            // modules: true // css module
+          }
+        }, 'postcss-loader', 'sass-loader'], // 如果要是多个loader用数组的形式
       }
       ]
   },
