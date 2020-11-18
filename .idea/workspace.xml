@@ -21,11 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="551ee9ab-e677-4948-9803-3e81a8aa1fc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Foundation/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/1.Foundation/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.buildEnv/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.buildEnv/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.buildEnv/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/3.buildEnv/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.buildEnv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/3.buildEnv/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.buildEnv/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/3.buildEnv/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,15 +59,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/3.buildEnv" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3.buildEnv/src" />
       <recent name="$PROJECT_DIR$/4.loader/src/iconfont" />
       <recent name="$PROJECT_DIR$/4.loader" />
       <recent name="$PROJECT_DIR$/../ts-demo/4.bundleTS" />
       <recent name="$PROJECT_DIR$/../ts-demo" />
-      <recent name="$PROJECT_DIR$/../ts-demo/1.foundation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3.buildEnv" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -90,7 +85,7 @@
       <workItem from="1605370690677" duration="4798000" />
       <workItem from="1605376070000" duration="55000" />
       <workItem from="1605543846920" duration="8121000" />
-      <workItem from="1605716484643" duration="512000" />
+      <workItem from="1605716484643" duration="2330000" />
     </task>
     <servers />
   </component>
