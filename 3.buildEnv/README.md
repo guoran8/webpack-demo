@@ -24,3 +24,6 @@ scripts会优先在当前的node_modules目录中查找
 ```
 "build": "webpack"
 ```
+
+### Output和Entry配置
+
