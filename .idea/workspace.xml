@@ -20,7 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551ee9ab-e677-4948-9803-3e81a8aa1fc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/7.devServer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.devServer/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.devServer/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.devServer/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.devServer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.devServer/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.devServer/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.devServer/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.source-map/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +41,8 @@
       <list>
         <option value="Vue Single File Component" />
         <option value="TypeScript File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,11 +69,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6.source-map" />
       <recent name="$PROJECT_DIR$/3.buildEnv/src" />
       <recent name="$PROJECT_DIR$/4.loader/src/iconfont" />
       <recent name="$PROJECT_DIR$/4.loader" />
       <recent name="$PROJECT_DIR$/../ts-demo/4.bundleTS" />
-      <recent name="$PROJECT_DIR$/../ts-demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/3.buildEnv" />
@@ -85,7 +94,7 @@
       <workItem from="1605370690677" duration="4798000" />
       <workItem from="1605376070000" duration="55000" />
       <workItem from="1605543846920" duration="8121000" />
-      <workItem from="1605716484643" duration="2330000" />
+      <workItem from="1605716484643" duration="5119000" />
     </task>
     <servers />
   </component>
